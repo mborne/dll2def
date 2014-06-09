@@ -5,6 +5,7 @@
 #include <windows.h>
 #include <winnt.h>
 
+
 /**
  * Dump dll symbols to generate a .def file
  * adapted from http://stackoverflow.com/questions/1128150/win32-api-to-enumerate-dll-export-functions
